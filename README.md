@@ -6,4 +6,4 @@
 
 システム名：　絵画紹介システム
 
-URL　　　 :  https://aso2201177.zombie.jp/kadai/index.php
+URL　　　 :  https://aso2201177.zombie.jp/final/index.php
